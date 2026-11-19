@@ -30,7 +30,8 @@ A. Transfer Characteristics – Connect the MOSFET circuit in LTspice. VGS is va
 
 B. Drain Characteristics – Connect the MOSFET circuit in LTspice. VDS is varied for different constant values of VGS, and the corresponding ID is observed.
 
-<img width="1920" height="1020" alt="Screenshot 2026-11-19 074038" src="https://github.com/user-attachments/assets/cb629db1-fe1a-480b-983f-250328a85957" />
+<img width="1920" height="1020" alt="Screenshot 2026-11-19 074509" src="https://github.com/user-attachments/assets/2a99621e-d2ab-422d-9b92-ecb1e4e44a34" />
+
 
 5. PROCEDURE
 A. Transfer Characteristics
